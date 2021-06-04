@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dominik
 - 👀 I’m interested in Coding: PHP, HTML, Java, JavaScript. Node.js, Laravel, ...
 - 🌱 I’m currently learning how to code :-)
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on any fun or interesting project
 - 📫 How to reach me coding@dg-home.de
 
 <!---
